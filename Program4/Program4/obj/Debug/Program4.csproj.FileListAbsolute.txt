@@ -1,0 +1,14 @@
+C:\Users\Nick\source\repos\Program4\Program4\bin\Debug\Program4.exe.config
+C:\Users\Nick\source\repos\Program4\Program4\bin\Debug\Program4.exe
+C:\Users\Nick\source\repos\Program4\Program4\bin\Debug\Program4.pdb
+C:\Users\Nick\source\repos\Program4\Program4\obj\Debug\Program4.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Program4\Program4\obj\Debug\Program4.exe
+C:\Users\Nick\source\repos\Program4\Program4\obj\Debug\Program4.pdb
+C:\Users\Nick\source\repos\Program4\Program4\obj\Debug\Program4.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\University Of Louisville\Fall 2017\CIS 199-01\Program4 (submission)\Program4\Program4\bin\Debug\Program4.exe.config
+C:\Users\Nick\Documents\University Of Louisville\Fall 2017\CIS 199-01\Program4 (submission)\Program4\Program4\bin\Debug\Program4.exe
+C:\Users\Nick\Documents\University Of Louisville\Fall 2017\CIS 199-01\Program4 (submission)\Program4\Program4\bin\Debug\Program4.pdb
+C:\Users\Nick\Documents\University Of Louisville\Fall 2017\CIS 199-01\Program4 (submission)\Program4\Program4\obj\Debug\Program4.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\University Of Louisville\Fall 2017\CIS 199-01\Program4 (submission)\Program4\Program4\obj\Debug\Program4.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\University Of Louisville\Fall 2017\CIS 199-01\Program4 (submission)\Program4\Program4\obj\Debug\Program4.exe
+C:\Users\Nick\Documents\University Of Louisville\Fall 2017\CIS 199-01\Program4 (submission)\Program4\Program4\obj\Debug\Program4.pdb
